@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Trabalhando principalmente com .NET, Python e JS<br>🌱 Entusiasta de Rust<br>⚡ A melhor forma de resolver bugs é com uma raquete elétrica.
+🔭 Trabalhando principalmente com .NET, Python e JS<br>🌱 Entusiasta de Rust e GO<br>⚡ A melhor forma de resolver bugs é com uma raquete elétrica.
 
 
 ## 🌐 Socials:
